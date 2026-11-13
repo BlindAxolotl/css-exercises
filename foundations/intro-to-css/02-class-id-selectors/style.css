@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #FFB3DB;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#dos {
+    color: #0011FF;
+    font-size: 36px;
+}
+
+.medium {
+    font-size: 24px;
+}
+
+#quatro {
+    background-color: lightgreen;
+    font-weight: bold;
+}
